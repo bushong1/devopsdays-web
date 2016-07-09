@@ -65,6 +65,8 @@ proposal_email: "organizers-baltimore-2016@devopsdays.org" # Put your proposal e
 sponsors:
   - id: eglobaltech
     level: platinum
+  - id: endgame 
+    level: platinum
   - id: fearless
     level: gold
   - id: arresteddevops
